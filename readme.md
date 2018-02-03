@@ -6,7 +6,6 @@ npm install git+ssh://git@github.com:wrcx/npm-vue-component-generator.git --save
 `
 
 2.Create generator.config.json
-*folder - where generator will copy files
 
 ```
 {
