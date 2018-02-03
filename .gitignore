@@ -1,0 +1,6 @@
+/vendor
+/node_modules
+.env
+.DS_store/
+.DS_store
+.idea/

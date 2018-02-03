@@ -1,0 +1,23 @@
+{
+  "name": "npm-vue-generator",
+  "version": "0.0.1",
+  "description": "NPM vue generator",
+  "preferGlobal": true,
+  "bin": {
+    "generator": "src/generator"
+  },
+  "main": "index.js",
+  "scripts": {
+    "generator": "node src/generator"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com:wrcx/npm-vue-component-generator.git"
+  },
+  "author": "wrcx",
+  "license": "MIT",
+  "homepage": "https://github.com/wrcx/npm-vue-component-generator",
+  "dependencies": {
+    "plop": "^1.8.0"
+  }
+}
